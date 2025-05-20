@@ -179,7 +179,3 @@ if player_score > computer_score:
     print("YOU WIN!")
 else:
     print("COMPUTER WINS!")
-
-#test
-
->>>>>>> 725b182 (made many changes, added time.sleep and time stamp for every round but im not sure what happened to my other commits, im bad at using git : /)
